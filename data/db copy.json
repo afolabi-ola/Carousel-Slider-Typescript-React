@@ -1,0 +1,134 @@
+{
+  "images": [
+    {
+      "name": "Image 1",
+      "src": "./images/img1.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 2",
+      "src": "images/img2.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 3",
+      "src": "images/img3.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 4",
+      "src": "images/img4.PNG",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 5",
+      "src": "images/img5.PNG",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 6",
+      "src": "images/img6.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 7",
+      "src": "images/img7.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 8",
+      "src": "images/img8.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 9",
+      "src": "images/img9.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 10",
+      "src": "images/img10.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 11",
+      "src": "images/img11.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 12",
+      "src": "images/img12.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 13",
+      "src": "images/img13.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 14",
+      "src": "images/img14.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 15",
+      "src": "images/img15.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 16",
+      "src": "images/img16.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 17",
+      "src": "images/img17.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 18",
+      "src": "images/img18.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 19",
+      "src": "images/img19.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 20",
+      "src": "images/img20.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 21",
+      "src": "images/img21.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 22",
+      "src": "images/img22.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 23",
+      "src": "images/img23.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 24",
+      "src": "images/img24.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 25",
+      "src": "images/img25.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    },
+    {
+      "name": "Image 26",
+      "src": "images/img26.jpg",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ipsa libero pariatur. Fugit sunt adipisci similique odio beatae nobis illum minima impedit expedita. Autem est, iste voluptatem fugit odit adipisci!"
+    }
+  ]
+}
