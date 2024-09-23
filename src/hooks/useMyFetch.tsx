@@ -7,9 +7,9 @@ function useMyEffect() {
 
   useEffect(function () {
     async function data() {
-      const res = await fetch('data/db.json');
+      const res = await fetch('http://localhost:3000/images');
       const data = await res.json();
-      setMyImages([...data.images]);
+      setMyImages([...data]);
     }
     data();
   }, []);
